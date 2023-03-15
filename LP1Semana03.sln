@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeString", "ChangeStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySums", "ArraySums\ArraySums.csproj", "{930D6FC3-A9D0-42E8-A951-82F71BB81BB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerPerks", "PlayerPerks\PlayerPerks.csproj", "{C19F16D3-CD3D-41B6-993D-4D6DD0B3E8FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{930D6FC3-A9D0-42E8-A951-82F71BB81BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{930D6FC3-A9D0-42E8-A951-82F71BB81BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{930D6FC3-A9D0-42E8-A951-82F71BB81BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19F16D3-CD3D-41B6-993D-4D6DD0B3E8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19F16D3-CD3D-41B6-993D-4D6DD0B3E8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19F16D3-CD3D-41B6-993D-4D6DD0B3E8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19F16D3-CD3D-41B6-993D-4D6DD0B3E8FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
